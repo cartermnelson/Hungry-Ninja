@@ -7,7 +7,12 @@ namespace Hungry_Ninja
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Buffet buffet = new Buffet();
+            Ninja ninja = new Ninja();
+
+            while(!ninja.IsFull){
+                ninja.Eat(buffet.Serve());
+            }
         }
     }
     class Food
@@ -43,7 +48,7 @@ namespace Hungry_Ninja
             Menu.Add(new Food("French Fries", 300, false, false));
         }
 
-        public Food Serve(Food food)
+        public Food Serve()
         {
             Random rand = new Random();
             return Menu[rand.Next(Menu.Count)];
@@ -66,7 +71,7 @@ namespace Hungry_Ninja
         {
             get
             {
-                return IsFull;
+                return calorieIntake > 1200;
             }
         }
         // build out the Eat method

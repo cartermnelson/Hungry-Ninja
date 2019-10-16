@@ -1,0 +1,11 @@
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\bin\Debug\netcoreapp2.2\Hungry-Ninja.deps.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\bin\Debug\netcoreapp2.2\Hungry-Ninja.runtimeconfig.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\bin\Debug\netcoreapp2.2\Hungry-Ninja.runtimeconfig.dev.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\bin\Debug\netcoreapp2.2\Hungry-Ninja.dll
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\bin\Debug\netcoreapp2.2\Hungry-Ninja.pdb
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\obj\Debug\netcoreapp2.2\Hungry-Ninja.csprojAssemblyReference.cache
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\obj\Debug\netcoreapp2.2\Hungry-Ninja.csproj.CoreCompileInputs.cache
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\obj\Debug\netcoreapp2.2\Hungry-Ninja.AssemblyInfoInputs.cache
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\obj\Debug\netcoreapp2.2\Hungry-Ninja.AssemblyInfo.cs
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\obj\Debug\netcoreapp2.2\Hungry-Ninja.dll
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Hungry-Ninja\obj\Debug\netcoreapp2.2\Hungry-Ninja.pdb
